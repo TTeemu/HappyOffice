@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\sane\documents\visual studio 2015\projects\happyoffice_windows_cs\happyoffice\happyoffice.windowsphone\obj\debug\intermediatexaml\happyoffice.windowsphone.exe" HashGuid="d870046e-b74d-dd00-3db1-6f76a396dacc" />
+    <ReferenceAssembly PathName="c:\users\sane\documents\visual studio 2015\projects\happyoffice_windows_cs\packages\windowsazure.mobileservices.1.3.2\lib\wpa81\microsoft.windowsazure.mobile.dll" HashGuid="5b462045-d27b-e518-25e9-78bf6305d2d1" />
+    <ReferenceAssembly PathName="c:\users\sane\documents\visual studio 2015\projects\happyoffice_windows_cs\packages\windowsazure.mobileservices.1.3.2\lib\wpa81\microsoft.windowsazure.mobile.ext.dll" HashGuid="55d46a17-b94f-0632-1660-bd4332856778" />
+    <ReferenceAssembly PathName="c:\users\sane\documents\visual studio 2015\projects\happyoffice_windows_cs\packages\newtonsoft.json.6.0.4\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="02b12ba6-881e-6b8a-1687-5b2ee1851a11" />
+    <ReferenceAssembly PathName="c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.5.2\system.device.dll" HashGuid="d0dbb284-7a27-4448-40d2-a089d17b75cb" />
+    <ReferenceAssembly PathName="c:\users\sane\documents\visual studio 2015\projects\happyoffice_windows_cs\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="c:\users\sane\documents\visual studio 2015\projects\happyoffice_windows_cs\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
